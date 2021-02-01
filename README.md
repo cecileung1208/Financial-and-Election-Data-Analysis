@@ -8,14 +8,14 @@ This analysis has two parts where a Python programming scripts have been written
 
 The project is done in two parts are per the below sections.  For each of the section, we must calculate the information in the bullet points.
 
-    1.  Financial Data Analysis
+   **1.  Financial Data Analysis**
         * Total Months
         * Total Profits
         * Average Profits
         * Greatest Increase Profits in Month and Amount
         * Greatest Decrease in Profits in Month and Amount
         
-    2.  Election Data Analysis
+   **2.  Election Data Analysis**
         * Total Number of Votes Casted
         * Complete List of Candidates who Received Votes
         * Percentage Won by Each Candidate
