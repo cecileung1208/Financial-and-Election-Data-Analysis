@@ -1,4 +1,39 @@
-# Python-Challenge
+# Financial and Election Data Analysis
+
+## Background 
+
+This analysis has two parts where a Python programming scripts have been written to calculate the bank's profitability and to determine the results of an election process in a rural town in the CSV datasets provided.
+
+## Requirements
+
+The project is done in two parts are per the below sections.  For each of the section, we must calculate the information in the bullet points.
+
+    1.  Financial Data Analysis
+        * Total Months
+        * Total Profits
+        * Average Profits
+        * Greatest Increase Profits in Month and Amount
+        * Greatest Decrease in Profits in Month and Amount
+        
+    2.  Election Data Analysis
+        * Total Number of Votes Casted
+        * Complete List of Candidates who Received Votes
+        * Percentage Won by Each Candidate
+        * Total Number of Votes by Each Candidate
+        * The Winner of the Election Based on Popular Vote
+
+## Datasets:
+* CSV files provided 
+
+
+## Method
+
+#### 1. Financial Analysis
+#### 2. Election Analysis
+
+
+## Results
+
 
 ## **This Homework has 2 Folders:**
 
