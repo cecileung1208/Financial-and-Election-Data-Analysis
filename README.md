@@ -4,32 +4,46 @@
 
 This analysis has two parts where a Python programming scripts have been written to calculate the bank's profitability and to determine the results of an election process in a rural town in the CSV datasets provided. 
 
-## Financial Analysis
+## 1. Financial Analysis
 
 ## Requirements
 
 The project is done in two parts are per the below sections.  For each of the section, we must calculate the information in the bullet points.
 
- **1.  Financial Data Analysis**
+ **Financial Data Analysis**
 * Total Months
 * Total Profits
-* Average Profits
-* Greatest Increase Profits in Month and Amount
-* Greatest Decrease in Profits in Month and Amount
+* Average Profit Change
+* Greatest Profit Increase in Month and Amount
+* Greatest Profit Decrease in Month and Amount
 
 
 ## Datasets:
 
-[Financial Dataset]()
+[Financial CSV Dataset](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Financial%20Analysis/Results/Resources/Financial_Data.csv)
 
 
 ## Method
+* Use Visual Studio Code to write Python script
+* Ensure the Financial CSV Dataset is in chronological order
+* Import the Financial CSV Dataset
+* Create Empty Lists with respective headings to store information
+ * Loop through the data to calculate the following:
+    * Monthly Profit Changes
+    * Total Profits
+    * Average Monthly Profits
+    * Greatest Profit Increase in Month and Amount
+    * Greatest Profit Decrease in Month and Amount
+* Output results to terminal
+* Export results in a text file
+
+## Results
 
 #### 1. Financial Analysis
 #### 2. Election Analysis
 
 
-## Results
+
         
  **2.  Election Data Analysis**
  * Total Number of Votes Casted
@@ -46,7 +60,6 @@ The project is done in two parts are per the below sections.  For each of the se
 ### **1.  PyBank**
 
 This program is to provide a summary of the Profit & Losses (P&L) over the periods of Jan 2010 - Feb 2017 from the [PyBank Records](https://github.com/cecileung1208/Py-Me-Up-Charlie/blob/main/PyBank/Results/Resources/PyBank_Resources_budget_data.csv).  It calculates the result for the following:
-
 *    Number of months
 *    Total P&L
 *    Average Change in P&L
