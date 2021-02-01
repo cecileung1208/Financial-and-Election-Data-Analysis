@@ -6,6 +6,8 @@ This analysis has two parts where a Python programming scripts have been written
 
 ## 1. Financial Analysis
 
+![Image](https://3fssfi2d8cso2spw9o1uumfp-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_362054459-1536x1038.jpg)
+
 ## Requirements
 
 The project is done in two parts are per the below sections.  For each of the section, we must calculate the information in the bullet points.
@@ -17,11 +19,9 @@ The project is done in two parts are per the below sections.  For each of the se
 * Greatest Profit Increase in Month and Amount
 * Greatest Profit Decrease in Month and Amount
 
-
 ## Datasets:
 
-[Financial CSV Dataset](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Financial%20Analysis/Results/Resources/Financial_Data.csv)
-
+[Financial CSV Dataset](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Financial%20Analysis/Resources/Financial_Data.csv)
 
 ## Method
 * Use Visual Studio Code to write Python script
@@ -39,8 +39,16 @@ The project is done in two parts are per the below sections.  For each of the se
 
 ## Results
 
-#### 1. Financial Analysis
-#### 2. Election Analysis
+Terminal Output:
+
+![Image](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Images/Financial%20Results%20Terminal%20Output.png)
+
+Text File Output:
+
+![Image](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Images/Financial%20Results%20Text%20Output.png)
+
+
+## 2. Election Analysis
 
 
 
