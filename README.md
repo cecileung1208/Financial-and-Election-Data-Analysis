@@ -28,12 +28,12 @@ The project is done in two parts are per the below sections.  For each of the se
 * Ensure the Financial CSV Dataset is in chronological order
 * Import the Financial CSV Dataset
 * Create Empty Lists with respective headings to store information
-* Loop through the data to calculate the following:
-        * Monthly Profit Changes
-        * Total Profits
-        * Average Monthly Profit Change
-        *  Greatest Profit Increase in Month and Amount
-        * Greatest Profit Decrease in Month and Amount
+ * Loop through the data to calculate the following:
+    * Monthly Profit Changes
+    * Total Profits
+    * Average Monthly Profits
+    * Greatest Profit Increase in Month and Amount
+    * Greatest Profit Decrease in Month and Amount
 * Output results to terminal
 * Export results in a text file
 
@@ -60,7 +60,6 @@ The project is done in two parts are per the below sections.  For each of the se
 ### **1.  PyBank**
 
 This program is to provide a summary of the Profit & Losses (P&L) over the periods of Jan 2010 - Feb 2017 from the [PyBank Records](https://github.com/cecileung1208/Py-Me-Up-Charlie/blob/main/PyBank/Results/Resources/PyBank_Resources_budget_data.csv).  It calculates the result for the following:
-
 *    Number of months
 *    Total P&L
 *    Average Change in P&L
