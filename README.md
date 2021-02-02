@@ -13,7 +13,7 @@ This analysis has two parts where a Python programming scripts have been written
 Calculate the following:
 * Total Months
 * Total Profits
-* Average Profit Change during the Entire Period
+* Average Profit Change During the Entire Period
 * Greatest Profit Increase in Month and Amount
 * Greatest Profit Decrease in Month and Amount
 
@@ -41,10 +41,10 @@ Calculate the following:
 
 ## Results
 
-Results are as follows:
+Financial Results are as follows:
 * There are a total of 86 months of profit data.
 * The bank's total profit during this period is $38,382578.
-* The average profit change during the entire period is a loss fo $2,315.12.
+* The average profit change during the entire period is a loss of $2,315.12.
 * The greatest increase in profits is during January, 2012 with a gain of $1,926,159.
 * The greatest decrease in profits is during August, 2013 with a loss of $2,196,167.
 
@@ -93,6 +93,15 @@ Text File Output:
 [Election Analysis Script](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Election%20Analysis/Election_Analysis.py) 
 
 ## Results
+
+Election Results are as follows:
+* There are a total of 3,521,001 votes.
+* There are 4 candidates:  Corey, Khan, Li, and O'Tooley.
+* Corey received 20% of the votes with 704,200 votes.
+* Li recieived 14% of the votes with 492,940 votes.
+* Khan received 63% of the votes with 2,218,231 votes.
+* O'Tooley recieved 3% of the votes with 105,630 votes.
+* Khan is the winner of the election.
 
 Terminal Output:
 
