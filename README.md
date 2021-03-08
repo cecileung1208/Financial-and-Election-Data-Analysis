@@ -19,7 +19,7 @@ Calculate the following:
 
 ## Datasets:
 
-[Financial CSV Dataset](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Financial%20Analysis/Resources/Financial_Data.csv)
+* [Financial CSV Dataset](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Financial%20Analysis/Resources/Financial_Data.csv)
 
 ## Method
 * Use Visual Studio Code to write Python script
@@ -37,7 +37,7 @@ Calculate the following:
 
 ## Python Scripts
 
-[Financial Analysis Script](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Financial%20Analysis/Financial_Analysis.py)
+* [Financial Analysis Script](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Financial%20Analysis/Financial_Analysis.py)
 
 ## Results
 
@@ -72,7 +72,7 @@ Text File Output:
 
 ## Datasets:
 
-[Election CSV Dataset](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Election%20Analysis/Resources/Election_Data.csv)
+* [Election CSV Dataset](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Election%20Analysis/Resources/Election_Data.csv)
 
 ## Method
 * Use Visual Studio Code to write Python script
@@ -90,7 +90,7 @@ Text File Output:
 
 ## Python Scripts
 
-[Election Analysis Script](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Election%20Analysis/Election_Analysis.py) 
+* [Election Analysis Script](https://github.com/cecileung1208/Financial-and-Election-Data-Analysis/blob/main/Election%20Analysis/Election_Analysis.py) 
 
 ## Results
 
